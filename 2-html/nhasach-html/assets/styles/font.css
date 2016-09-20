@@ -1,0 +1,49 @@
+﻿@font-face {
+  font-family: 'UTMAndrogyne';
+  src: url('../fonts/UTM Androgyne_7.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "UTM God's Word";
+  src: url("../fonts/UTM God's WordR.eot");
+  src: url("../fonts/UTM God's WordR.woff2") format('woff2'),
+       url("../fonts/UTM God's WordR.eot?#iefix") format('embedded-opentype'),
+      url("../fonts/UTMGod'sWord.woff") format('woff'),
+       url("../fonts/UTMGod'sWord.ttf") format('truetype'),
+       url("../fonts/UTMGod'sWord.svg#UTMGod'sWord") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SFUFuturaBook';
+  src: url('../fonts/SFUFuturaBook.woff') format('woff'),
+       url('../fonts/SFUFuturaBook.ttf') format('truetype'),
+       url('../fonts/SFUFuturaBook.svg#SFUFuturaBook') format('svg'),
+	   url('../fonts/sfufuturabook.eot'),
+	   url('../fonts/sfufuturabook.woff2') format('woff2'),
+       url('../fonts/sfufuturabook.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'VNFQuicksand Bold';
+  src: 
+       url('../fonts/vnf-quicksand-bold.ttf') format('truetype');
+  font-weight: normal;
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'UTM BryantLG';
+  src: 
+       url('../fonts/UTM BryantLG.ttf') format('truetype');
+  font-weight: normal;
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
