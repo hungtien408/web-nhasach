@@ -14,7 +14,8 @@ public partial class _Default : System.Web.UI.Page
         if (!IsPostBack)
         {
             Page.Title = "Nhà Sạch - Nhà Mát";
-            var meta = new HtmlMeta() { Name = "description", Content = "Nhà Sạch - Nhà Mát" };
+            //var meta = new HtmlMeta() { Name = "description", Content = "Nhà Sạch - Nhà Mát" };
+            var meta = new HtmlMeta() { Name = "description", Content = "Giúp việc theo giờ, dịch vụ giúp việc nhà theo giờ, tạp vụ văn phòng, giúp việc nhà ở lại" };
             Header.Controls.Add(meta);
         }
     }
