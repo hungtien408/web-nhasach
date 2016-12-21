@@ -311,7 +311,7 @@
                 <div class="col-md-6">
                     <div class="head lineh">
                         <h2 class="title-2">
-                            Mẹo vặt</h2>
+                            Tin tức</h2>
                         <div class="see-more">
                             <a href="meo-vat.aspx"><span>Xem thêm</span></a>
                         </div>

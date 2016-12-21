@@ -37,7 +37,7 @@ public partial class meovat : System.Web.UI.Page
             }
             else
             {
-                strTitle = strMetaTitle = "Mẹo Vặt";
+                strTitle = strMetaTitle = "Tin Tức";
                 strDescription = "";
                 strMetaDescription = "";
             }

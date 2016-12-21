@@ -8,7 +8,7 @@
         <div class="main">
             <div class="main-gv-title">
                 <h2>
-                    mẹo vặt</h2>
+                    Tin tức</h2>
             </div>
             <div class="slide-head">
                 <div class="slider slider-for">
